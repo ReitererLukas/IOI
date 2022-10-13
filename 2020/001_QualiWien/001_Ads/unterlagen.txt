@@ -1,0 +1,6 @@
+IOI_ADS:
+n: Breite der Stadt
+m: Höhe der Stadt
+k: Reichweite es Plakats (Manhatten Distanz)
+
+Manhatten Distanz: |x1-x2|+|y1-y2|
